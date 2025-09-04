@@ -160,6 +160,7 @@ Emergency Contact List (Searchable Table)
 ## Dashboard Previews
 
 Student Dashboard
+college(teacher).jpeg
 
 Teacher Dashboard
 
