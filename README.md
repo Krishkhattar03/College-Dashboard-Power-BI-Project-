@@ -159,10 +159,16 @@ Emergency Contact List (Searchable Table)
 
 ## Dashboard Previews
 
-Student Dashboard
-college(teacher).jpeg
 
-Teacher Dashboard
+
+### Student Dashboard
+![Student Dashboard](college(teacher).jpeg)
+
+### Teacher Dashboard
+![Teacher Dashboard]()
+
+
+
 
 ## Key Insights
 
